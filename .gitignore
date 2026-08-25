@@ -1,0 +1,16 @@
+# clangd cache
+.cache/
+
+# vscode user config
+settings.json
+c_cpp_properties.json
+
+# cmake output
+build/
+
+# zig
+.zig-cache/
+zig-out/
+
+# vscode in general
+.vscode/
